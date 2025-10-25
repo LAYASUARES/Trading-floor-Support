@@ -5,9 +5,10 @@
 5. OSPF on the routers and 13 switches. -
 6. Static IP address to serverRoom devices. -
 47. DHCP server device configurations. -
-8. Inter-VLAN routing on the 13 switches plus ip dhcp helper addresses.
-9. Wireless network configurations.
+8. Inter-VLAN routing on the 13 switches plus ip dhcp helper addresses. -
+9. Wireless network configurations. -
 10. PAT + Access Control List
+10.1. Default static route
 11. Verifying and testing configurations.
 
 
